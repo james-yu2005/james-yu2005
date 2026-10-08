@@ -1,8 +1,8 @@
 # Hi, I'm James! 👋
 
-### 🧬 Biomedical Engineering @ University of Waterloo
+### Engineering @ University of Waterloo
 
-I am a 3rd-year student specializing in **Machine Learning**!
+I am a 4th-year student specializing in **Machine Learning**!
 
 ---
 
